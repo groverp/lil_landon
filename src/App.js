@@ -15,7 +15,9 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React in less than a day
+          Learn React in less than a day.
+           <br/>
+          Accepted the challenge to get this change to AWS.
         </a>
       </header>
     </div>
